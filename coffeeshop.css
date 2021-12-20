@@ -96,14 +96,14 @@ body{
 
 /* media query only for card */
 @media screen and (max-width: 767px){
-.card {
-    width: 47%;
-    padding: 1.5%;
-    height: 230px;
-    float: left;
-    text-align: center;
-}
-}
+	.card{
+		width: 22%;
+	    height: 150px;
+	}
+	.card h2 {
+	    font-size: 16px;
+	}
+}  
 
 
 
