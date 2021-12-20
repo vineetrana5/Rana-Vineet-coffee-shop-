@@ -94,7 +94,16 @@ body{
 	margin:10px;
 }
 
-
+/* media query only for card */
+@media screen and (max-width: 767px){
+.card {
+    width: 47%;
+    padding: 1.5%;
+    height: 230px;
+    float: left;
+    text-align: center;
+}
+}
 
 
 
